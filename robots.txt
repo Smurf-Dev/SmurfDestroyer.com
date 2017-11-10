@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 User-agent: * 
 Crawl-Delay: 20
+=======
+User-agent: * 
+Crawl-Delay: 20
+>>>>>>> 62a16dbf6deb97700a2596aa4bb29d5442e28653

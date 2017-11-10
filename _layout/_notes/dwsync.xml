@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
 <file name="head.php" server="smurfdestroyer.com" local="131546272078299931" remote="131546343600000000" Dst="1" />
 <file name="slider.php" server="smurfdestroyer.com" local="131546283378418889" remote="131546355000000000" Dst="1" />
 <file name="nav1.php" server="smurfdestroyer.com" local="131547141085061104" remote="131547213000000000" Dst="1" />
+=======
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="head.php" server="smurfdestroyer.com" local="131546272078299931" remote="131546343600000000" Dst="1" />
+<file name="slider.php" server="smurfdestroyer.com" local="131546283378418889" remote="131546355000000000" Dst="1" />
+<file name="nav1.php" server="smurfdestroyer.com" local="131547141085061104" remote="131547213000000000" Dst="1" />
+>>>>>>> 62a16dbf6deb97700a2596aa4bb29d5442e28653
 </dwsync>
